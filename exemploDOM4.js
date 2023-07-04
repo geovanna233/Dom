@@ -13,3 +13,5 @@ function enviar() {
     var email = inputiEmail.value 
     resultado.innerHTML = `Seu nome é ${nome} <br> Seu email é ${email}`
 }
+
+botao.addEventListener('click', cadastrar)
