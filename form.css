@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(196, 126, 226);
+}
+
+form{
+    border: 1px solid;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+button{
+    background-color: aquamarine;
+}
